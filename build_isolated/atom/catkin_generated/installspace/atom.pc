@@ -1,0 +1,8 @@
+prefix=/home/chicuong/ardupilot_ws/install_isolated
+
+Name: atom
+Description: Description of atom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
