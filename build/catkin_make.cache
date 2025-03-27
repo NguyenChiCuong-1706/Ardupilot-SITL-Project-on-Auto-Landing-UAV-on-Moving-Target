@@ -1,2 +1,0 @@
-iq_gnc:iq_sim:mavlink:mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/mavros_msgs:mavros/test_mavros
--DCATKIN_DEVEL_PREFIX=/home/chicuong/ardupilot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chicuong/ardupilot_ws/install -G Unix Makefiles
